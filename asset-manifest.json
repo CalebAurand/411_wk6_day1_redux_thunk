@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css",
-    "main.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.03d36659.chunk.js",
-    "main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.03d36659.chunk.js.map",
-    "runtime~main.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.80fd88b4.js",
-    "runtime~main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.80fd88b4.js.map",
-    "static/js/2.0bd9d5cc.chunk.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js",
-    "static/js/2.0bd9d5cc.chunk.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js.map",
-    "index.html": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/index.html",
-    "precache-manifest.d437b86e79c53335cf81091b19241ec6.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/precache-manifest.d437b86e79c53335cf81091b19241ec6.js",
-    "service-worker.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/service-worker.js",
-    "static/css/main.be9515fe.chunk.css.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css.map"
+    "main.css": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css",
+    "main.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.86dc1d57.chunk.js",
+    "main.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.86dc1d57.chunk.js.map",
+    "runtime~main.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.ae497906.js",
+    "runtime~main.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.ae497906.js.map",
+    "static/js/2.0bd9d5cc.chunk.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js",
+    "static/js/2.0bd9d5cc.chunk.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js.map",
+    "index.html": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/index.html",
+    "precache-manifest.ecabcfefae95ed77538827388e86c10c.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/precache-manifest.ecabcfefae95ed77538827388e86c10c.js",
+    "service-worker.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/service-worker.js",
+    "static/css/main.be9515fe.chunk.css.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css.map"
   }
 }
