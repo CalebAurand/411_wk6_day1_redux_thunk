@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/precache-manifest.ecabcfefae95ed77538827388e86c10c.js"
+  "/411_wk6_day1_redux_thunk/precache-manifest.1785a81c02f17145ab3d88d437a86bff.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/411_wk6_day1_redux_thunk/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

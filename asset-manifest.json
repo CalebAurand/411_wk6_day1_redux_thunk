@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css",
-    "main.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.86dc1d57.chunk.js",
-    "main.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.86dc1d57.chunk.js.map",
-    "runtime~main.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.ae497906.js",
-    "runtime~main.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.ae497906.js.map",
-    "static/js/2.0bd9d5cc.chunk.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js",
-    "static/js/2.0bd9d5cc.chunk.js.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js.map",
-    "index.html": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/index.html",
-    "precache-manifest.ecabcfefae95ed77538827388e86c10c.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/precache-manifest.ecabcfefae95ed77538827388e86c10c.js",
-    "service-worker.js": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/service-worker.js",
-    "static/css/main.be9515fe.chunk.css.map": "/CalebAurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css.map"
+    "main.css": "/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css",
+    "main.js": "/411_wk6_day1_redux_thunk/static/js/main.c0f71c5c.chunk.js",
+    "main.js.map": "/411_wk6_day1_redux_thunk/static/js/main.c0f71c5c.chunk.js.map",
+    "runtime~main.js": "/411_wk6_day1_redux_thunk/static/js/runtime~main.de4eddb6.js",
+    "runtime~main.js.map": "/411_wk6_day1_redux_thunk/static/js/runtime~main.de4eddb6.js.map",
+    "static/js/2.0bd9d5cc.chunk.js": "/411_wk6_day1_redux_thunk/static/js/2.0bd9d5cc.chunk.js",
+    "static/js/2.0bd9d5cc.chunk.js.map": "/411_wk6_day1_redux_thunk/static/js/2.0bd9d5cc.chunk.js.map",
+    "index.html": "/411_wk6_day1_redux_thunk/index.html",
+    "precache-manifest.1785a81c02f17145ab3d88d437a86bff.js": "/411_wk6_day1_redux_thunk/precache-manifest.1785a81c02f17145ab3d88d437a86bff.js",
+    "service-worker.js": "/411_wk6_day1_redux_thunk/service-worker.js",
+    "static/css/main.be9515fe.chunk.css.map": "/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css.map"
   }
 }
