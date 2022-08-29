@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calebaurand/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css",
-    "main.js": "/calebaurand/411_wk6_day1_redux_thunk/static/js/main.74587f66.chunk.js",
-    "main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/static/js/main.74587f66.chunk.js.map",
-    "runtime~main.js": "/calebaurand/411_wk6_day1_redux_thunk/static/js/runtime~main.fd7cbe51.js",
-    "runtime~main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/static/js/runtime~main.fd7cbe51.js.map",
-    "static/js/2.0bd9d5cc.chunk.js": "/calebaurand/411_wk6_day1_redux_thunk/static/js/2.0bd9d5cc.chunk.js",
-    "static/js/2.0bd9d5cc.chunk.js.map": "/calebaurand/411_wk6_day1_redux_thunk/static/js/2.0bd9d5cc.chunk.js.map",
-    "index.html": "/calebaurand/411_wk6_day1_redux_thunk/index.html",
-    "precache-manifest.d09334c7a5c034a94e979202d5af6a77.js": "/calebaurand/411_wk6_day1_redux_thunk/precache-manifest.d09334c7a5c034a94e979202d5af6a77.js",
-    "service-worker.js": "/calebaurand/411_wk6_day1_redux_thunk/service-worker.js",
-    "static/css/main.be9515fe.chunk.css.map": "/calebaurand/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css.map"
+    "main.css": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css",
+    "main.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.03d36659.chunk.js",
+    "main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/main.03d36659.chunk.js.map",
+    "runtime~main.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.80fd88b4.js",
+    "runtime~main.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/runtime~main.80fd88b4.js.map",
+    "static/js/2.0bd9d5cc.chunk.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js",
+    "static/js/2.0bd9d5cc.chunk.js.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/js/2.0bd9d5cc.chunk.js.map",
+    "index.html": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/index.html",
+    "precache-manifest.d437b86e79c53335cf81091b19241ec6.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/precache-manifest.d437b86e79c53335cf81091b19241ec6.js",
+    "service-worker.js": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/service-worker.js",
+    "static/css/main.be9515fe.chunk.css.map": "/calebaurand/411_wk6_day1_redux_thunk/settings/pages/static/css/main.be9515fe.chunk.css.map"
   }
 }
